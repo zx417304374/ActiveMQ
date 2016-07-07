@@ -1,0 +1,2 @@
+[2016-06-06 17:43:06 周一]Debug: ActiveMQModulePlugin::callFunc 44 QMap(("Arg1", QVariant(QString, "NoticeMQ"))("Arg10", QVariant(bool, true))("Arg2", QVariant(QString, ""))("Arg3", QVariant(QString, "NoticeTopic"))("Arg4", QVariant(QString, "UserName："))("Arg5", QVariant(QString, "Password："))("Arg6", QVariant(QString, "u01001"))("Arg7", QVariant(QString, "01001"))("Arg8", QVariant(bool, true))("Arg9", QVariant(bool, false))("ArgCounts", QVariant(int, 10))("FuncName", QVariant(QString, "startConsumer")))
+[2016-06-06 17:43:06 周一]Debug: ActiveMQModulePlugin::callFunc 46
